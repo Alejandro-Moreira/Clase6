@@ -1,1 +1,1 @@
-# Clase6
+# Clase6_Herencia
